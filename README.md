@@ -23,7 +23,6 @@ Each challenge lives in its own dated folder:
 | Date       | Challenge              | Status |
 | ---------- | ---------------------- | ------ |
 | 2026-04-11 | Rook and Bishop Attack | ✅     |
-| ---------- | ---------------------- | ------ |
 | 2026-04-11 | Rook Attack            | ✅     |
 
 > Table updated as challenges are completed.
