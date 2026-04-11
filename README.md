@@ -24,6 +24,7 @@ Each challenge lives in its own dated folder:
 | ---------- | ---------------------- | ------ |
 | 2026-04-11 | Rook and Bishop Attack | ✅     |
 | 2026-04-11 | Rook Attack            | ✅     |
+| 2026-04-11 | Next Bingo Number      | ✅     |
 
 > Table updated as challenges are completed.
 
