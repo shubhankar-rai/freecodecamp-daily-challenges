@@ -22,7 +22,7 @@ Considered the movement rules for each piece separately and mapped them to coord
 
 ## Edge Cases Considered
 
-- Same square (e.g. `rookBishopAttack("e4", "e4")`) — both pieces can't share a square; the original rook check would incorrectly return `"rook"`, so a guard is needed.
+- Same square (e.g. `rookBishopAttack("e4", "e4")`) — both pieces can't share a square.
 - Invalid input — strings shorter or longer than 2 characters, `null`, or out-of-range coordinates should throw rather than silently misbehave.
 
 ---
