@@ -39,7 +39,7 @@ Each challenge lives in its own dated folder:
 ## 🔗 Links
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
-- [My Portfolio](https://shubhankarrai.pages.dev/) ← update this
+- [My Portfolio](https://shubhankarrai.pages.dev/)
 
 ---
 
