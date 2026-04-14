@@ -27,6 +27,7 @@ Each challenge lives in its own dated folder:
 | 2026-04-11 | Next Bingo Number      | ✅     |
 | 2026-04-12 | FizzBuzz Validator     | ✅     |
 | 2026-04-13 | Name Initials          | ✅     |
+| 2026-04-14 | Spiral Matrix          | ✅     |
 
 > Table updated as challenges are completed.
 
