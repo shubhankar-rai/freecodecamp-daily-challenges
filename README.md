@@ -29,6 +29,7 @@ Each challenge lives in its own dated folder:
 | 2026-04-13 | Name Initials          | ✅     |
 | 2026-04-14 | Spiral Matrix          | ✅     |
 | 2026-04-14 | Last Letter            | ✅     |
+| 2026-05-21 | I Before E             | ✅     |
 
 > Table updated as challenges are completed.
 
