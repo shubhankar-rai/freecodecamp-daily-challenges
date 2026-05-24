@@ -31,6 +31,7 @@ Each challenge lives in its own dated folder:
 | 2026-04-14 | Last Letter            | ✅     |
 | 2026-05-21 | I Before E             | ✅     |
 | 2026-05-23 | Open Issues            | ✅     |
+| 2026-05-25 | Roman Numeral Fixer    | ✅     |
 
 > Table updated as challenges are completed.
 
