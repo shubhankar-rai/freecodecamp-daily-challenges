@@ -32,6 +32,7 @@ Each challenge lives in its own dated folder:
 | 2026-05-21 | I Before E             | ✅     |
 | 2026-05-23 | Open Issues            | ✅     |
 | 2026-05-25 | Roman Numeral Fixer    | ✅     |
+| 2026-06-25 | Frontmatter Parser     | ✅     |
 
 > Table updated as challenges are completed.
 
