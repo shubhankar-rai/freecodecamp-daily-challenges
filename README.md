@@ -33,6 +33,7 @@ Each challenge lives in its own dated folder:
 | 2026-05-23 | Open Issues            | ✅     |
 | 2026-05-25 | Roman Numeral Fixer    | ✅     |
 | 2026-06-25 | Frontmatter Parser     | ✅     |
+| 2026-08-04 | Golf Handicap Calculator     | ✅     |
 
 > Table updated as challenges are completed.
 
